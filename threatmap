@@ -1,0 +1,30 @@
+Intrusion/Port Scan 從何而來? 我一次過介紹各大vendor 做的 Live Cyber Attack Maps
+
+簡單講，佢喺世界唔同ISP放probe( log 住 traffic, tcpip 總有src ip, dest ip, ports)，DDOS 即是好多traffic短時間內, 如果(真係如果假設)有一堆Zombie機(手機/電腦都得)想hack某地的Servers，個圖就會有個飛彈飛過去，可以睇到就只係咁多。其實個 screen 日日都係咁壯觀，DDOS, cyberattach 根本日日都在進行中, 你係冇辦法由此找到FB, Whatapps, google Out of services 的原因
+
+
+https://www.akamai.com/us/en/resources/visualizing-akamai/real-time-web-monitor.jsp?
+
+http://response.network-box.com/intrusions
+
+https://threatmap.fortiguard.com/
+
+https://cybermap.kaspersky.com/
+
+https://horizon.netscout.com/
+
+https://www.deteque.com/live-threat-map/
+
+https://www.fireeye.com/cyber-map/threat-map.html
+
+https://threatmap.bitdefender.com/
+
+https://threatbutt.com/map/
+
+https://threatmap.checkpoint.com/ThreatPortal/livemap.html
+
+http://www.digitalattackmap.com  (DDOS 分佈+VOL)  Google做, 佢就真係攞各ISP既 report 做呢個map，亦可以看到一個國家用乜方法 DDoS 另一個國家。
+
+https://www.talosintelligence.com/
+
+我會送埋彩旦, 物理上,Submarine fiber 用來連起國與國間Internet Gateway, 有某vendor(sold手機No.1) 做Submarine Fiber Map,  可以參考一下, 有時有IP Address, 唔知係什麼國家, 典算好?  try https://myip.ms/
