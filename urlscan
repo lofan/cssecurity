@@ -1,0 +1,18 @@
+I frequently analyze URLs to confirm my IDS events.
+https://sitecheck.sucuri.net/
+https://urlscan.io/
+https://www.virustotal.com/gui/home/upload
+http://urlquery.net/
+http://www.urlvoid.com/
+http://wepawet.iseclab.org/
+https://sitereport.netcraft.com/
+
+A few other sites used for vetting malware domains:
+http://www.malwaredomainlist.com/
+http://www.threatexpert.com/
+http://www.malwaredomains.com/
+http://anubis.iseclab.org/ the traffic analysis part can be useful too
+https://app.any.run/
+
+https://www.ip-tracker.org/
+https://www.shodan.io/
